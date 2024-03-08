@@ -28,6 +28,10 @@ body::before {
   height: 100vh;
   z-index: -1;
 }
+/* custom css*/
+#hero .typed {
+  color:#18d26e;
+}
 
 @media (min-width: 1024px) {
   body::before {
