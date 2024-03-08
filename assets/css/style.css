@@ -29,7 +29,7 @@ body::before {
   z-index: -1;
 }
 /* custom css*/
-#hero .typed {
+#hero span {
   color:#18d26e;
 }
 
