@@ -261,7 +261,7 @@ h6 {
 .navbar li:hover>a:before,
 .navbar .active:before {
   visibility: visible;
-  width: 25px;
+  width: 40px;
 }
 
 .navbar a:hover,
